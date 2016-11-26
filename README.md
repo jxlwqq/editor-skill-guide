@@ -8,10 +8,10 @@
 * 基本
     * 翻墙，搜索 VPN 了解更多。
     * 熟练使用浏览器及各类插件，推荐使用 Google Chrome，教程：[你极力推荐的 Chrome 扩展有哪些？](https://www.zhihu.com/question/19594682)
-    * 文字编辑与排版，教程：[中文排版指南](./中文排版指南.md)、[微信公众号内容编辑指南](https://www.zhihu.com/question/25019699/answer/59129615)
-    * 图片挑选与编辑，建议使用 Google Image 并通过英文关键词进行搜索
+    * 文字编辑与排版，教程：[中文排版指南](Chinese_Guidelines.md)、[微信公众号内容编辑指南](https://www.zhihu.com/question/25019699/answer/59129615)
+    * 图片挑选与编辑，建议使用 Google Image 并通过英文关键词进行搜索，然后使用 PhotoShop 等图片处理软件对图片进行相关剪辑
     * 专题/活动策划
-    * 新闻源的整理与维护，[业内常用新闻源](新闻源.md)
+    * 新闻源的整理与维护，[业内常用新闻源](News_Source.md)
     * 原创/翻译人员的管理与维护
     * 了解 Web 应用或网站的基本原理，科普文：[Web 服务器的工作原理](http://www.importnew.com/15020.html)
     * HTML 基础知识，教程：[w3school 在线教程](http://www.w3school.com.cn/)
@@ -25,11 +25,16 @@
     
 * 挑战
     * 自学一门编程语言 Python，教程：[笨办法学 Python （Learn Python The Hard Way）](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)
-    * 使用团队协作工具 Git，教程：[超級简单的 Git 入门](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)、
+    * 使用团队协作工具 Git，教程：[超級简单的 Git 入门](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)
+    
+## 软件
+* [Chrome](http://www.google.cn/chrome/browser/)，不推荐国产浏览器
+* [PhotoShop](https://www.adobe.com/cn/creativecloud/business.html)
+* [WebStorm](http://www.jetbrains.com/webstorm/)，不推荐使用 Dreamweaver
 
 ## 参考
 * [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines/blob/Simplified/README.md)
-* [MarkDown](https://github.com/younghz/Markdown/blob/master/README.md)
+* [MarkDown 入门](https://github.com/younghz/Markdown/blob/master/README.md)
 * [如何做好一名微信公众号的内容编辑？](https://www.zhihu.com/question/25019699/answer/59129615)
 * [浅谈内容运营需要做什么](http://www.jianshu.com/p/719cd273d502)
 * [成为一名网络编辑需要具备哪些能力？](http://www.jianshu.com/p/a2b5dc983b2b)
