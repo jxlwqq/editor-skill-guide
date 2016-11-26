@@ -16,7 +16,7 @@
     * 了解 Web 应用或网站的基本原理，科普文：[Web 服务器的工作原理](http://www.importnew.com/15020.html)
     * HTML 基础知识，教程：[w3school 在线教程](http://www.w3school.com.cn/)
     * 建立一套自己的内容资源库与知识体系，推荐使用 [EverNote](https://www.yinxiang.com/)、[为知笔记](http://www.wiz.cn/)、[有道云笔记](http://note.youdao.com/index.html)、[OneNote](http://www.onenote.com/) 等。
-    * 同事之间的良好协作与沟通，推荐使用 
+    * 同事之间的良好协作与沟通，推荐使用 [tower](https://tower.im/)
    
 * 进阶
     * 在掌握 HTML 的基础上，熟练使用 MarkDown，教程：[认识与入门 Markdown](http://sspai.com/25137)
