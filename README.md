@@ -26,7 +26,7 @@
     
 * 挑战
     * 自学一门编程语言 Python，教程：[笨办法学 Python （Learn Python The Hard Way）](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)，可实现办公自动化、从高重复性的工作中解放出来
-    * 使用团队协作工具 Git，教程：[超級简单的 Git 入门](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)、[Pro Git](https://git-scm.com/book/zh/v2)
+    * 使用团队协作工具 Git，教程：[超級简单的 Git 入门](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)、[官方教程 Pro Git](https://git-scm.com/book/zh/v2)
     
 ## 软件
 * [Chrome](http://www.google.cn/chrome/browser/)，一款优秀的浏览器，不推荐国产浏览器
@@ -37,7 +37,7 @@
 ## 充电
 * [中国大学MOOC](http://www.icourse163.org/)、[Coursera](https://www.coursera.org/)、[Udacity](https://cn.udacity.com/)、[edX](https://www.edx.org/) 等各大 MOOC 平台
 * [网易云课堂](http://study.163.com/)、[百度传课](http://www.chuanke.com/)、[腾讯课堂](https://ke.qq.com/) 等综合学习平台
-* [极客学院](http://www.jikexueyuan.com/)、[慕课网](http://www.imooc.com/)等 IT 技能学习平台
+* [极客学院](http://www.jikexueyuan.com/)、[慕课网](http://www.imooc.com/) 等 IT 技能学习平台
 
 ## 参考
 * [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines/blob/Simplified/README.md)
