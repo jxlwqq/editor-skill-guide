@@ -31,7 +31,7 @@
     
 ## 软件
 * [Chrome](http://www.google.cn/chrome/browser/)，一款优秀的浏览器，不推荐国产浏览器
-* [FeedDemon](http://www.feeddemon.com/)，一款优秀的 本地 RSS 阅读器
+* [FeedDemon](http://www.feeddemon.com/)，一款优秀的本地 RSS 阅读器
 * [PhotoShop](https://www.adobe.com/cn/creativecloud/business.html)，一款优秀的图片处理工具
 * [WebStorm](http://www.jetbrains.com/webstorm/)，一款优秀的前端开发工具，不推荐使用 Dreamweaver
 
