@@ -7,6 +7,7 @@
 我将`生物360`的编辑人员需要掌握的技能按难易程度，分为 3 个部分：
 * 基本
     * 翻墙，搜索 VPN 了解更多。
+    * 使用 Google Search。
     * 熟练使用浏览器及各类插件，推荐使用 Google Chrome，教程：[你极力推荐的 Chrome 扩展有哪些？](https://www.zhihu.com/question/19594682)
     * 文字编辑与排版，教程：[中文排版指南](Chinese_Guidelines.md)、[微信公众号内容编辑指南](https://www.zhihu.com/question/25019699/answer/59129615)，程序可自动支持，需开发人员配合
     * 图片挑选与编辑，建议使用 Google Image 并通过英文关键词进行搜索，然后使用 PhotoShop 等图片处理软件对图片进行相关剪辑
@@ -20,7 +21,7 @@
     * 同事之间的良好协作与沟通，推荐使用 [tower](https://tower.im/)
    
 * 进阶
-    * 在掌握 HTML 的基础上，熟练使用 MarkDown，教程：[认识与入门 MarkDown](http://sspai.com/25137)
+    * 在掌握 HTML 的基础上，熟练使用 MarkDown，教程：[认识与入门 Markown](http://sspai.com/25137)
     * 熟悉前端知识体系（HTML、CSS、JavaScript），教程：[HTML + CSS 基础课程](http://www.imooc.com/learn/9)
     * 熟练使用 PhotoShop，教程：[李涛 PhotoShop 高手之路基础篇](http://study.163.com/course/introduction.htm?courseId=203001)
     
