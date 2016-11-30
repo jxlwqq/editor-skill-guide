@@ -6,7 +6,7 @@
 
 我将`生物360`的编辑人员需要掌握的技能按难易程度，分为 3 个部分：
 * 基本
-    * 翻墙，搜索 VPN 了解更多。
+    * 翻墙，搜索 VPN 了解更多，[红杏影梭服务](http://www.hx-ss.cc/)
     * 使用 Google Search，教程：[如何用好 Google 等搜索引擎？](https://www.zhihu.com/question/20161362)
     * 熟练使用浏览器及各类插件，推荐使用 Google Chrome，教程：[你极力推荐的 Chrome 扩展有哪些？](https://www.zhihu.com/question/19594682)
     * 文字编辑与排版，教程：[中文排版指南](Chinese_Guidelines.md)、[微信公众号内容编辑指南](https://www.zhihu.com/question/25019699/answer/59129615)，程序可自动支持，需开发人员配合
