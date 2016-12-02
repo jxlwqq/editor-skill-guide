@@ -28,7 +28,7 @@
 
 * [Discover](http://discovermagazine.com/)
 
-* [科学新闻杂志－服务职业科学家](http://www.science-weekly.cn/)
+* [科学新闻杂志 服务职业科学家](http://www.science-weekly.cn/)
 
 * [《科学》杂志 创刊于1915年的高级科普期刊](http://www.kexuemag.com/Article/Index.asp)
 
@@ -62,7 +62,7 @@
 
 * [BBC Science - BBC Science](http://www.bbc.co.uk/science/0/)
 
-* [MIT Technology Review](http://www.technologyreview.com/)(http://www.technologyreview.com/)
+* [MIT Technology Review](http://www.technologyreview.com/)
 
 * [科学/技术 日经中文网](http://cn.nikkei.com/industry/scienceatechnology.html)
 
@@ -90,7 +90,7 @@
 
 * [生物探索-探索生物科技价值的新媒体门户网站](http://www.biodiscover.com/)
 
-* [生物通--------中国生命科学第一网](http://www.ebiotrade.com/)
+* [生物通 中国生命科学第一网](http://www.ebiotrade.com/)
 
 * [生物秀—生物医药门户网站](http://www.bbioo.com/)
 

@@ -26,7 +26,7 @@
     * 熟练使用 PhotoShop，教程：[李涛 PhotoShop 高手之路基础篇](http://study.163.com/course/introduction.htm?courseId=203001)
     
 * 挑战
-    * 自学一门编程语言 Python，教程：[笨办法学 Python （Learn Python The Hard Way）](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)，可实现办公自动化、从高重复性的工作中解放出来
+    * 自学一门编程语言 Python，教程：[编程零基础应当如何开始学习 Python ？](https://www.zhihu.com/question/20039623?rf=35566520)、[笨办法学 Python （Learn Python The Hard Way）](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)，可实现办公自动化、从高重复性的工作中解放出来
     * 使用团队协作工具 Git，教程：[超級简单的 Git 入门](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)、[官方教程 Pro Git](https://git-scm.com/book/zh/v2)
     
 ## 软件
