@@ -21,13 +21,13 @@
     * 同事之间的良好协作与沟通，推荐使用 [tower](https://tower.im/)
    
 * 进阶
-    * 在掌握 HTML 的基础上，熟练使用 MarkDown，教程：[认识与入门 MarkDown](http://sspai.com/25137)
+    * 在掌握 HTML 的基础上，熟练使用 Markdown，教程：[认识与入门 Markdown](http://sspai.com/25137)
     * 熟悉前端知识体系（HTML、CSS、JavaScript），教程：[HTML + CSS 基础课程](http://www.imooc.com/learn/9)
     * 熟练使用 PhotoShop，教程：[李涛 PhotoShop 高手之路基础篇](http://study.163.com/course/introduction.htm?courseId=203001)
     
 * 挑战
     * 自学一门编程语言 Python，教程：[编程零基础应当如何开始学习 Python ？](https://www.zhihu.com/question/20039623?rf=35566520)、[笨办法学 Python （Learn Python The Hard Way）](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)，可实现办公自动化、从高重复性的工作中解放出来
-    * 使用团队协作工具 Git，教程：[超級简单的 Git 入门](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)、[官方教程 Pro Git](https://git-scm.com/book/zh/v2)
+    * 使用团队协作工具 Git，教程：[超级简单的 Git 入门](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)、[官方教程 Pro Git](https://git-scm.com/book/zh/v2)
     
 ## 软件
 * [红杏影梭服务](http://www.hx-ss.cc/)，一款优秀的翻墙软件
@@ -46,7 +46,7 @@
 
 ## 参考
 * [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines/blob/Simplified/README.md)
-* [MarkDown 入门](https://github.com/younghz/Markdown/blob/master/README.md)
+* [Markdown 入门](https://github.com/younghz/Markdown/blob/master/README.md)
 * [如何做好一名微信公众号的内容编辑？](https://www.zhihu.com/question/25019699/answer/59129615)
 * [浅谈内容运营需要做什么](http://www.jianshu.com/p/719cd273d502)
 * [成为一名网络编辑需要具备哪些能力？](http://www.jianshu.com/p/a2b5dc983b2b)
