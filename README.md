@@ -35,7 +35,7 @@
 * [FeedDemon](http://www.feeddemon.com/)，一款优秀的本地 RSS 阅读器
 * [EverNote](https://www.yinxiang.com/)，一款优秀的笔记软件
 * [MarkdownPad](http://markdownpad.com/)，一款优秀的全功能 Markdown 编辑器
-* [PhotoShop](https://www.adobe.com/cn/creativecloud/business.html)，一款优秀的图片处理工具
+* [PhotoShop](https://www.adobe.com/cn/creativecloud/business.html)，一款优秀的图片处理工具，[注册工具](https://pan.baidu.com/s/1slnMPkD)
 * [WebStorm](http://www.jetbrains.com/webstorm/)，一款优秀的前端开发工具，不推荐使用 Dreamweaver
 * [PyCharm](https://www.jetbrains.com/pycharm/)，一款优秀的 Python 开发工具
 
