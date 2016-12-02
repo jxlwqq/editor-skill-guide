@@ -30,10 +30,14 @@
     * 使用团队协作工具 Git，教程：[超級简单的 Git 入门](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)、[官方教程 Pro Git](https://git-scm.com/book/zh/v2)
     
 ## 软件
+* [红杏影梭服务](http://www.hx-ss.cc/)，一款优秀的翻墙软件
 * [Chrome](http://www.google.cn/chrome/browser/)，一款优秀的浏览器，不推荐国产浏览器
 * [FeedDemon](http://www.feeddemon.com/)，一款优秀的本地 RSS 阅读器
+* [EverNote](https://www.yinxiang.com/)，一款优秀的笔记软件
+* [MarkdownPad](http://markdownpad.com/)，一款优秀的全功能 Markdown 编辑器
 * [PhotoShop](https://www.adobe.com/cn/creativecloud/business.html)，一款优秀的图片处理工具
 * [WebStorm](http://www.jetbrains.com/webstorm/)，一款优秀的前端开发工具，不推荐使用 Dreamweaver
+* [PyCharm](https://www.jetbrains.com/pycharm/)，一款优秀的 Python 开发工具
 
 ## 充电
 * [中国大学MOOC](http://www.icourse163.org/)、[Coursera](https://www.coursera.org/)、[Udacity](https://cn.udacity.com/)、[edX](https://www.edx.org/) 等各大 MOOC 平台
