@@ -9,7 +9,8 @@
     * 翻墙，搜索 VPN 了解更多，[红杏影梭服务](http://www.hx-ss.cc/)
     * 使用 Google Search，教程：[如何用好 Google 等搜索引擎？](https://www.zhihu.com/question/20161362)
     * 熟练使用浏览器及各类插件，推荐使用 Google Chrome，教程：[你极力推荐的 Chrome 扩展有哪些？](https://www.zhihu.com/question/19594682)
-    * 文字编辑与排版，教程：[中文排版指南](Chinese_Guidelines.md)、[微信公众号内容编辑指南](https://www.zhihu.com/question/25019699/answer/59129615)，程序可自动支持，需开发人员配合
+    * 文字编辑与排版，教程：[中文排版指南](Chinese_Guidelines.md)，程序可自动支持，需开发人员配合
+    * 移动端（包括但不限于微信）排版，教程：[微信公众号内容编辑指南](https://www.zhihu.com/question/25019699/answer/59129615)
     * 图片挑选与编辑，建议使用 Google Image 并通过英文关键词进行搜索，然后使用 PhotoShop 等图片处理软件对图片进行相关剪辑
     * 专题/活动策划
     * 新闻源的整理与维护，[业内常用新闻源](News_Source.md)，程序可自动定时爬取，需开发人员配合
