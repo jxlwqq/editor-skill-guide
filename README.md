@@ -14,11 +14,11 @@
     * 图片挑选与编辑，建议使用 Google Image 并通过英文关键词进行搜索，然后使用 PhotoShop 等图片处理软件对图片进行相关剪辑
     * 专题/活动策划
     * 新闻源的整理与维护，[业内常用新闻源](News_Source.md)，程序可自动定时爬取，需开发人员配合
-    * 使用 RSS 订阅新闻源，教程：[如何用RSS订阅一切](http://www.jianshu.com/p/394a861d37b1)
+    * 使用 RSS 订阅新闻源，教程：[如何用 RSS 订阅一切](http://www.jianshu.com/p/394a861d37b1)
     * 原创/翻译人员的管理与维护
     * 了解 Web 应用或网站的基本原理，科普文：[Web 服务器的工作原理](http://www.importnew.com/15020.html)
     * HTML 基础知识，教程：[w3school 在线教程](http://www.w3school.com.cn/)
-    * 建立一套自己的内容资源库与知识体系，推荐使用 [EverNote](https://www.yinxiang.com/)、[为知笔记](http://www.wiz.cn/)、[有道云笔记](http://note.youdao.com/index.html)、[OneNote](http://www.onenote.com/) 等。
+    * 建立一套自己的内容资源库与知识体系，目前有众多优秀的笔记软件：[EverNote](https://www.yinxiang.com/)、[为知笔记](http://www.wiz.cn/)、[有道云笔记](http://note.youdao.com/index.html)、[OneNote](http://www.onenote.com/) 等，推荐使用 [EverNote](https://www.yinxiang.com/)，教程：[印象笔记从入门到精通：10个最常见用法](https://zhuanlan.zhihu.com/p/20698338)
     * 同事之间的良好协作与沟通，推荐使用 [tower](https://tower.im/)
    
 * 进阶
