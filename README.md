@@ -1,6 +1,6 @@
 # 网站编辑的技能之路
 
-垂直网站编辑这份工作是又累又枯燥，还是又有趣又有成就感？这取决于每个人怎么具体干这份工作。找到适合自己的工具、建立好效率的工作流程、工作中不停地思考，会让你的付出事半功倍，也更有利于公司与个人的成长。
+找到适合自己的工具、建立好效率的工作流程、工作中不停地思考，会让你的付出事半功倍，也更有利于公司与个人的成长。
 
 ## 技能
 
@@ -22,7 +22,8 @@
     * 同事之间的良好协作与沟通，推荐使用 [tower](https://tower.im/)
    
 * 进阶
-    * 在掌握 HTML 的基础上，熟练使用 Markdown，教程：[认识与入门 Markdown](http://sspai.com/25137)
+    * SEO 基础知识
+    * 在掌握 HTML 的基础上，熟练使用 Markdown，教程：[认识与入门 Markdown](http://sspai.com/25137)
     * 在掌握 HTML 的基础上，使用 [火车头采集器](http://www.locoy.com/) 或 [八爪鱼采集器](http://www.bazhuayu.com/) 采集数据
     * 熟悉前端知识体系（HTML、CSS、JavaScript），教程：[HTML + CSS 基础课程](http://www.imooc.com/learn/9)
     * 熟练使用 PhotoShop，教程：[李涛 PhotoShop 高手之路基础篇](http://study.163.com/course/introduction.htm?courseId=203001)
