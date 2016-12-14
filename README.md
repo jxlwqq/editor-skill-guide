@@ -22,8 +22,8 @@
     * 同事之间的良好协作与沟通，推荐使用 [tower](https://tower.im/)
    
 * 进阶
-    * SEO 基础知识
-    * 在掌握 HTML 的基础上，熟练使用 Markdown，教程：[认识与入门 Markdown](http://sspai.com/25137)
+    * SEO 基础知识，教程：[搜索引擎优化（SEO）](https://www.zhihu.com/topic/19554326)
+    * 在掌握 HTML 的基础上，熟练使用 Markdown，教程：[认识与入门 Markdown](http://sspai.com/25137)
     * 在掌握 HTML 的基础上，使用 [火车头采集器](http://www.locoy.com/) 或 [八爪鱼采集器](http://www.bazhuayu.com/) 采集数据
     * 熟悉前端知识体系（HTML、CSS、JavaScript），教程：[HTML + CSS 基础课程](http://www.imooc.com/learn/9)
     * 熟练使用 PhotoShop，教程：[李涛 PhotoShop 高手之路基础篇](http://study.163.com/course/introduction.htm?courseId=203001)
